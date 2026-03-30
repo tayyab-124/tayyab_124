@@ -1,27 +1,18 @@
-## About Me :
+# 💫 About Me:
+## About Me :<br><br>🔭 I’m currently working on  <br>- Android apps using Kotlin (QR Attendance System, Expense Tracker)  <br>- Front-end web development projects  <br><br>👯 I’m looking to collaborate on  <br>- Mobile app development projects  <br>- UI/UX design for modern apps and dashboards  <br><br>🤝 I’m looking for help with  <br>- Advanced Firebase integration  <br>- Backend development for scalable apps  <br><br>🌱 I’m currently learning  <br>- Advanced Android Development  <br>- Firebase (Authentication, Firestore, Realtime DB)  <br>- UI/UX improvements using Figma  <br><br>💬 Ask me about  <br>- Android Studio & Kotlin  <br>- Front-End Web Development (HTML, CSS)  <br>- Building landing pages, login pages, and responsive UI designs  <br><br>⚡ Fun fact  <br>- I’m a Front-End Web Developer skilled in HTML & CSS, building landing pages, login pages, and modern responsive websites  <br>- I also create AI-generated content and love exploring new tech 🚀  
 
-🔭 I’m currently working on  
-- Android apps using Kotlin (QR Attendance System, Expense Tracker)  
-- Front-end web development projects  
 
-👯 I’m looking to collaborate on  
-- Mobile app development projects  
-- UI/UX design for modern apps and dashboards  
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Tayyab Latif) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_its_paracha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muhammad Tayyab Latif) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Trends Store) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@TayyabLatif804) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Tayyab Latif) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:latiftayyab3565@gmail.com) 
 
-🤝 I’m looking for help with  
-- Advanced Firebase integration  
-- Backend development for scalable apps  
+# 💻 Tech Stack:
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=tayyab-124&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=tayyab-124&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tayyab-124&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-🌱 I’m currently learning  
-- Advanced Android Development  
-- Firebase (Authentication, Firestore, Realtime DB)  
-- UI/UX improvements using Figma  
+---
+[![](https://visitcount.itsvg.in/api?id=tayyab-124&icon=0&color=0)](https://visitcount.itsvg.in)
 
-💬 Ask me about  
-- Android Studio & Kotlin  
-- Front-End Web Development (HTML, CSS)  
-- Building landing pages, login pages, and responsive UI designs  
-
-⚡ Fun fact  
-- I’m a Front-End Web Developer skilled in HTML & CSS, building landing pages, login pages, and modern responsive websites  
-- I also create AI-generated content and love exploring new tech 🚀  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
